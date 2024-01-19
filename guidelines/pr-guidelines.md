@@ -112,3 +112,7 @@ Add a step-by-step guide on how these changes can be tested and what local setup
 - [ ] Code follows architectural approach of the team
 - [ ] Changelog is updated correctly
 ```
+
+# Extension and feedback
+
+If you have feedback or want to extend, change or improve something feel free to contact me by a [creating a issue](https://github.com/aaronczichon/guidelines/issues/new) on Github.
